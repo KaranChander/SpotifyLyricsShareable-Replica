@@ -1,0 +1,67 @@
+{
+    "songs": [{
+        "id": 1,
+        "title": "Imagine",
+        "artist": "John Lennon",
+        "imageName": "johnlennon",
+        "lyrics": [
+            "Imagine there's no heaven",
+            "It's easy if you try",
+            "No hell below us",
+            "Above us, only sky",
+            "Imagine all the people living for today, ah",
+            "Imagine there's no countries",
+            "It isn't hard to do",
+            "Nothing to kill or die for",
+            "And no religion, too",
+            "Imagine all the people living life in peace, you",
+            "... (and so on)"
+        ]
+    },
+        
+        {
+            "id": 2,
+            "title": "Bohemian Rhapsody",
+            "artist": "Queen",
+            "imageName": "queen",
+            "lyrics": [
+                "Is this the real life? Is this just fantasy?",
+                "Caught in a landslide, no escape from reality",
+                "Open your eyes, look up to the skies and see",
+                "I'm just a poor boy, I need no sympathy",
+                "Because I'm easy come, easy go, little high, little low",
+                "Any way the wind blows doesn't really matter to me, to me",
+                "Mama, just killed a man",
+                "Put a gun against his head, pulled my trigger, now he's dead",
+                "Mama, life had just begun",
+                "But now I've gone and thrown it all away",
+                "Mama, ooh, didn't mean to make you cry",
+                "If I'm not back again this time tomorrow",
+                "Carry on, carry on as if nothing really matters"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Nothing Else Matters",
+            "artist": "Metallica",
+            "imageName": "metallica",
+            "lyrics": [
+                "So close, no matter how far",
+                "Couldn't be much more from the heart",
+                "Forever trusting who we are",
+                "And nothing else matters",
+                "Never opened myself this way",
+                "Life is ours, we live it our way",
+                "All these words, I don't just say",
+                "And nothing else matters",
+                "Trust I seek and I find in you",
+                "Every day for us something new",
+                "Open mind for a different view",
+                "And nothing else matters",
+                "Never cared for what they do",
+                "Never cared for what they know",
+                "But I know"
+            ]
+        }
+    ]
+}
