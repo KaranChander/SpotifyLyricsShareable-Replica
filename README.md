@@ -12,7 +12,7 @@ I recently was listening to some of my favorite songs on Spotify and found that 
 
 
 # Video Demo
-
+[https://github.com/KaranChander/SpotifyLyricsShareable-Replica/blob/main/SpotifyLyricsShare.mp4](https://github.com/KaranChander/SpotifyLyricsShareable-Replica/raw/e5a2b955e39b28ce8c46ef121b4949a9008c3753/SpotifyLyricsShare.mp4)
 
 # 🛠️ What is ImageRenderer?
 ImageRenderer is a powerful tool in SwiftUI that allows developers to capture and render views as images. This can be incredibly useful for creating snapshots of UI components, generating previews, and sharing content directly from your app.
